@@ -1,0 +1,27 @@
+<component name="libraryTable">
+  <library name="spring-aop-4.3.25.RELEASE-javadoc">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libs/spring-aop-4.3.25.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/spring-beans-4.3.25.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/spring-cglib-repack-3.2.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/spring-context-4.3.25.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/spring-core-4.3.25.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/spring-expression-4.3.25.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/spring-objenesis-repack-2.6.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/libs/spring-aop-4.3.25.RELEASE-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/spring-beans-4.3.25.RELEASE-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/spring-context-4.3.25.RELEASE-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/spring-core-4.3.25.RELEASE-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/spring-expression-4.3.25.RELEASE-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/libs/spring-aop-4.3.25.RELEASE-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/spring-beans-4.3.25.RELEASE-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/spring-context-4.3.25.RELEASE-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/spring-core-4.3.25.RELEASE-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/spring-expression-4.3.25.RELEASE-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
